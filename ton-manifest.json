@@ -1,0 +1,9 @@
+{
+    "name": "Space Dogs",
+    "description": "Earn points by completing tasks and claim rewards with TON.",
+    "url": "http://670d9b82ea58f.site123.me/",
+    "iconUrl": "https://postimg.cc/tsw7zQJZ",
+    "manifestVersion": "0.1.0",
+    "permissions": ["sendTransaction"]
+  }
+  
